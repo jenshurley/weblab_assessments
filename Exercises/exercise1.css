@@ -1,0 +1,33 @@
+h1{
+  border-bottom: 2px groove white;
+  text-align:center;
+  font-family: Arial, sans-serif;
+}
+
+.heavy{
+    font-weight:bold;
+ }
+/*bold*/
+
+.twelve{
+    font-size: 12px;
+ }
+
+.slant{
+    font-style: italic;
+}
+
+.mmargin{
+    margin:1em;
+}
+/*margin of 1em*/
+
+.andscene{
+    border-bottom: 1px solid lightgray;
+}
+    /*bottom border 1px solid lightgray*/
+
+.grayed{
+    color:#999;
+}
+/*color #999*/
